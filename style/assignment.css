@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner-img {
+    height: 50%;
+    width: 50%;
+}
+
+.banner {
+    display: flex;
+    align-items: center;
+    background-color: #C4C5C9;
+    
+
+}
+
+.banner-description{
+    margin-left: 50px;
+}
+
+.btn-primary {
+    color: #FFFFFF;
+    font-weight: 700;
+    height: 45px;
+    margin-top: 29px;
+    font-size: 20px;
+    border: 0;
+    padding: 15px 25px;
+    border-radius: 5px;
+    background: #FD6E0A;
+
+}
