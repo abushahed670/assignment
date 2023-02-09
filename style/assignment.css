@@ -2,7 +2,7 @@
     margin: 0;
     font-family: 'Open Sans', sans-serif;
 }
-
+/* banner style */
 .banner-img {
     height: 50%;
     width: 50%;
@@ -11,13 +11,14 @@
 .banner {
     display: flex;
     align-items: center;
-    background-color: #C4C5C9;
+    background-color:  #C1C3C2;
     
 
 }
 
 .banner-description{
     margin-left: 50px;
+    
 }
 
 .btn-primary {
@@ -28,7 +29,53 @@
     font-size: 20px;
     border: 0;
     padding: 15px 25px;
+    align-items: center;
     border-radius: 5px;
     background: #FD6E0A;
 
+}
+
+/* failure section style */
+
+.failure{
+    display: flex;
+    align-items: center;
+    background-color: #FFFFFF;
+}
+.failure-img{
+    height: 50%;
+    width: 50%;
+    margin-top: 50PX;
+}
+.failure-description{
+    margin-left: 50px;
+    margin-top: 100px;
+
+}
+
+.failure-description ul li{
+    list-style: none;
+}
+
+/*  my plan section style */
+.plans-title{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-bottom: 35px;
+
+}
+.plans-description{
+    color: #C1C3C2;
+}
+
+.plans-img{
+    align-items: center;
+}
+
+.plans-container{
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    margin-left: 100px;
 }
