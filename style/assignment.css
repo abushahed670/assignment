@@ -88,6 +88,7 @@
     color: #FFFFFF;
     gap: 70px;
     align-items: center;
+    padding-left: 120px;
 }
 .future{
     height: 50%;
@@ -109,15 +110,7 @@
 .phone{
     margin-top: 15px; 
 }
-.icon-1{
-    margin-top: 15px; 
-}
-.icon-2{
-    margin-top: 15px; 
-}
-.icon-3{
-    margin-top: 15px; 
-}
+
 .subscribe{
     margin-top: 20px;
 }
