@@ -25,10 +25,10 @@
     color: #FFFFFF;
     font-weight: 700;
     height: 45px;
-    margin-top: 29px;
+    margin-top: 20px;
     font-size: 20px;
     border: 0;
-    padding: 15px 25px;
+    padding: 15px 15px;
     align-items: center;
     border-radius: 5px;
     background: #FD6E0A;
@@ -75,7 +75,67 @@
 
 .plans-container{
     display: flex;
-    gap: 100px;
+    gap: 150px;
     align-items: center;
-    margin-left: 100px;
+    margin-left: 50px;
+}
+/* footer style */
+
+.footer-container{
+    display: flex;
+    margin-top: 50px;
+    background-color: black;
+    color: #FFFFFF;
+    gap: 70px;
+    align-items: center;
+}
+.future{
+    height: 50%;
+    padding-top: 70px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.future   {
+    margin-top: 15px;
+}
+.future-description{
+    margin-top: 15px;
+
+}
+.email{
+    margin-top: 15px; 
+}
+.phone{
+    margin-top: 15px; 
+}
+.icon-1{
+    margin-top: 15px; 
+}
+.icon-2{
+    margin-top: 15px; 
+}
+.icon-3{
+    margin-top: 15px; 
+}
+.subscribe{
+    margin-top: 20px;
+}
+.subs-title{
+    padding-bottom: 10px;
+}
+
+.subs-btn{
+    color:  #FD6E0A;
+    font-weight: 700;
+    height: 45px;
+    margin-top: 5px;
+    font-size: 20px;
+    border: 0;
+    padding: 15px 15px;
+    align-items: center;
+    border-radius: 5px;
+    background:#FFFFFF;
+    text-align: center;
+
 }
